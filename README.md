@@ -2,7 +2,7 @@
 ---------
 
 ### COD: World at War
-- [ ] Nacht der Untoten
+- [x] Nacht der Untoten
 - [ ] Zombie Verruckt
 - [ ] Shi No Numa
 - [ ] Der Reise
